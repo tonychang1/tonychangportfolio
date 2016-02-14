@@ -1,0 +1,67 @@
+
+
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<title>Home:tonychangportfolio</title>
+
+<link href="css/tonychangportfolio.css" rel="stylesheet" media="screen, projection" type="text/css"/>
+
+
+<style type="text/css">
+.grow {float:left; margin-bottom: 18px;}
+ .thump {padding:0; text-align:left; display: table; height: 220px; position:relative; overflow: hidden; width: 220px;}
+
+ .grow strong {margin-top: 3px; text-align: left; display: block; font-weight: normal; text-align: center;}
+ .grow em {font-style: normal; display: none; text-align: center;}
+
+ .thumb-it { #position: absolute; _top: 50%; display: table-cell; vertical-align: middle; text-align: center; }
+ .thumb-img { #position: relative; width: 220px; display:block; }
+</style>
+
+<style type="text/css">body { background: url(images/wallpaper_1280x800px.jpg) no-repeat;
+background-position: 0 0;}</style>
+</head>
+
+<body>
+<div id="menu">
+<div class="container">
+<div id="logo"><a href="tonychangportfolio.html"><img src="images/logo2_200x200px.png"/></a></div>
+<p> </p>
+<ul>
+<li class="section-title">Who I am</li>
+</ul>
+<ul>
+<li><a href="tonychangportfolio_aboutme.html">Über mich</a></li>
+</ul>
+<ul>
+<li><a href="tonychangportfolio_lebenslauf.html">Lebenslauf</a></li>
+</ul>
+
+<p></p>
+<ul>
+<li class="section-title">Works</li>
+</ul>
+<ul>
+<li><a href="tonychangportfolio_print.html">Print</a></li>
+</ul>
+<ul>
+<li><a href="tonychangportfolio_fotos.html">Fotos</a></li>
+</ul>
+<ul>
+<li><a href="tonychangportfolio_sonstiges.html">Sonstiges</a></li>
+</ul>
+<p>© 2016 Tony Chang</p>
+</div>
+</div>
+
+<div id="content">
+<div class="container2">
+
+<p><p style="display:none"></p>
+
+</div>
+</div>
+</body>
+</html>
